@@ -1,2 +1,3 @@
 ![Preview Aplikasi](./assets/preview-capture.mp4)
-![5210411166] Naufal Firmansyah
+
+_*5210411166*_ Naufal Firmansyah
